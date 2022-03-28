@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **darshanraut3828@gmail.com**
 
-- 📄 Know about my experiences [https://darshans-portfolio.netlify.app/static/media/cv.pdf](https://darshans-portfolio.netlify.app/static/media/cv.pdf)
+- 📄 Know about my experiences [https://darshans-portfolio.netlify.app/static/media/cv.d3c7a14dbe150986aa5c.pdf](https://darshans-portfolio.netlify.app/static/media/cv.d3c7a14dbe150986aa5c.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
