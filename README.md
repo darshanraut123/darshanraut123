@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://darshans-portfolio.netlify.app/](https://darshans-portfolio.netlify.app/)
 
-- 💬 Ask me about **Javascript, Spring Boot, React, Express, Node**
+- 💬 Ask me about **Javascript, React, Express, Node**
 
 - 📫 How to reach me **darshanraut3828@gmail.com**
 
