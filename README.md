@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darshan Raut</h1>
 <h3 align="center">A passionate fullstack developer from India with a Degree in Engineering and PG Diploma in Advanced Computing from CDAC.</h3>
 
-- 🌱 I’m currently planning to start learning **Angular**
-
 - 👨‍💻 All of my projects are available at [https://darshans-portfolio.netlify.app/](https://darshans-portfolio.netlify.app/)
 
 - 💬 Ask me about **Javascript, React, Express, Node**
